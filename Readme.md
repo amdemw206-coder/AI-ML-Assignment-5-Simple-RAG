@@ -1,6 +1,5 @@
 ## Project Title: AD 331 Implementing a Simple Retrieval-Augmented Generation (RAG) System
 #### By: Amde Wubshet
-
 ### LLM Used: 
 GPT-2
 
@@ -8,7 +7,7 @@ GPT-2
  all-MiniLM-L6-v2 
  
 ### Test Cases 
-| Test Case || Chunks Recieved |  Query |  Analysis |
+| Test Case || Chunks Recieved | Query | Analysis |
 |---|---|---|---|
 | 1 | Chunk 2 | "What is the primary function of the Baku?" | The knowledge chunk returned is what was expected, although the LLM still ended up hallucinated |
 | 2 | Chunk 1 | "How are you supposed to cook sausages?" | What was returned from the LLM and the RAG system was not as ideal since the question isn't in the KB. |
