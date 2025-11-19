@@ -10,6 +10,6 @@ GPT-2
 
 | Test Case | Chunks Recieved | Query | Analysis | 
 | :------- | :------: | :-------: | -------: |
-| Data 1A  | Data 2A  | Data 3A  | Data 4A  |
-| Data 1B  | Data 2B  | Data 3B  | Data 4B  |
-|          |          |          |          |
+| 1 | Data 2A  | Data 3A  | Data 4A  |
+| 2 | Data 2B  | Data 3B  | Data 4B  |
+| 3  |          |          |          |
